@@ -20,7 +20,7 @@ This project provides production-ready SQL scripts and Python utilities for data
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/sql-database-management-system.git
+git clone https://github.com/amori27/sql-database-management-system.git
 cd sql-database-management-system
 pip install -r requirements.txt
 ```
