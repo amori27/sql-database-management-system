@@ -1,4 +1,6 @@
 # SQL Database Management System
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A comprehensive SQL toolkit featuring complex queries, performance optimization techniques, database normalization patterns, and advanced SQL functions for modern data management.
 
