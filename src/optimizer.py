@@ -101,8 +101,8 @@ class QueryOptimizer:
         if match:
             table1, table2, condition = match.groups()
             self.suggestions.append(
-                f"Consider converting implicit join to explicit INNER JOIN "
-                f"for better readability and maintainability."
+                "Consider converting implicit join to explicit INNER JOIN "
+                "for better readability and maintainability."
             )
         return query
 

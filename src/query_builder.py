@@ -4,9 +4,6 @@ This module provides a fluent interface for building complex SQL queries
 including joins, subqueries, aggregations, and window functions.
 """
 
-from typing import Any
-
-
 class QueryBuilder:
     """Fluent SQL query builder supporting complex queries."""
 
